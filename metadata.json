@@ -1,0 +1,6 @@
+{
+  "name": "QuoteTalk 60",
+  "description": "A 60-day challenge web app to achieve spoken English fluency by expanding daily quotes out loud with real-time speech metrics, AI feedback, and model answers.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
